@@ -30,9 +30,9 @@
 
 ## 🧠 About Me
 
-I'm a **Data Science Engineering student at ESPRIT**, focused on Artificial Intelligence, Machine Learning, Deep Learning and Data Engineering.
+I'm a **Data Science Engineering student at ESPRIT**, focused on Artificial Intelligence, Machine Learning, Deep Learning and Data science.
 
-My interests lie at the intersection of intelligent systems, large language models, data infrastructure and real-world AI applications.
+My interests lie at the intersection of intelligent systems, large language models, data science and real-world AI applications.
 
 I enjoy going beyond model experimentation: understanding architectures, preparing and processing datasets, fine-tuning models, building pipelines and integrating AI capabilities into functional applications.
 
